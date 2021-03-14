@@ -43,3 +43,5 @@ Val Loss:	2630400.1581579647
 Val Accuracy = 52.0%
 
 # added some words on github
+
+# added again
