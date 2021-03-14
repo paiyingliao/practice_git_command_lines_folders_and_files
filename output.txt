@@ -41,3 +41,5 @@ Epoch 39:	 3030743.4718
 
 Val Loss:	2630400.1581579647
 Val Accuracy = 52.0%
+
+# added some words on github
